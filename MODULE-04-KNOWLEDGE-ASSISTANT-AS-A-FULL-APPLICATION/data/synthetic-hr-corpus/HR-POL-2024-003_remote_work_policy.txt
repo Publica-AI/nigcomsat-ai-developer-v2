@@ -1,0 +1,107 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+HUMAN RESOURCES POLICY
+
+Document reference:     HR-POL-2024-003
+Title:                  Remote Work Policy
+Department:             HR / IT
+Date issued:            2024-03-01
+Approved by:            Director, People & Culture
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This policy defines the terms under which employees may work
+remotely, the equipment and support provided, and the obligations
+that apply while working outside the office.
+
+------------------------------------------------------------
+2. ELIGIBILITY
+------------------------------------------------------------
+(a) Employees who have completed their probation period (6 months)
+    and whose role does not require daily physical presence may
+    apply for remote work.
+
+(b) Roles excluded from remote work: facilities staff, front-desk
+    and reception, hardware engineers who maintain on-site
+    equipment, and security personnel.
+
+(c) The line manager and Head of Department must both approve a
+    remote work arrangement. HR records the arrangement.
+
+------------------------------------------------------------
+3. REMOTE WORK MODELS
+------------------------------------------------------------
+NovaNet offers two models:
+
+(a) Hybrid — the employee works from the office 3 days per week
+    (Tuesday, Wednesday and Thursday are mandatory in-office days)
+    and remotely on Monday and Friday.
+
+(b) Fully remote — the employee works from a location outside
+    Lagos. Fully remote arrangements are approved on a case-by-
+    case basis and require a minimum of one in-office week per
+    quarter.
+
+------------------------------------------------------------
+4. EQUIPMENT AND ALLOWANCES
+------------------------------------------------------------
+(a) The IT department provides a company laptop, a VPN licence,
+    and access to the company collaboration tools (Microsoft 365
+    and Slack).
+
+(b) Employees on an approved remote work arrangement receive a
+    monthly Remote Work Allowance of NGN 25,000 to cover
+    electricity and internet costs. This allowance is taxable.
+
+(c) Employees who need an ergonomic chair or monitor may request
+    one through the IT portal. Requests up to NGN 80,000 are
+    approved by the IT Manager; requests above that amount require
+    Head of Department approval.
+
+(d) The company does not reimburse co-working space fees unless
+    pre-approved by the Head of Department.
+
+------------------------------------------------------------
+5. WORKING HOURS AND AVAILABILITY
+------------------------------------------------------------
+(a) Core hours are 09:00 to 16:00 WAT. Employees must be
+    reachable on Slack and email during core hours.
+
+(b) The employee's total daily working hours remain 8 hours,
+    in line with the standard employment contract.
+
+(c) Remote work does not change overtime eligibility. Overtime
+    must be pre-approved by the line manager.
+
+------------------------------------------------------------
+6. DATA PROTECTION AND SECURITY
+------------------------------------------------------------
+(a) All company work must be done on the company-issued laptop.
+    Employees must not store company data on personal devices.
+
+(b) The VPN must be connected when accessing internal systems.
+
+(c) Employees working from public locations (cafés, co-working
+    spaces) must use a privacy screen and must not join
+    confidential meetings where conversations can be overheard.
+
+(d) Breaches of data protection obligations while working
+    remotely are treated under the Code of Conduct and
+    Disciplinary Procedure (HR-POL-2024-002).
+
+------------------------------------------------------------
+7. TERMINATION OF REMOTE WORK ARRANGEMENT
+------------------------------------------------------------
+Either the employee or the company may end a remote work
+arrangement with 2 weeks' written notice. The company may end
+an arrangement immediately if the employee's performance falls
+below expectations or if a security incident occurs.
+
+------------------------------------------------------------
+8. CONTACT
+------------------------------------------------------------
+Remote work queries: hr-ops@novanet.com.ng or extension 4200.
+Equipment requests: it-support@novanet.com.ng or extension 5100.

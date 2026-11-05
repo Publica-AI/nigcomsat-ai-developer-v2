@@ -1,0 +1,115 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+STANDARD OPERATING PROCEDURE
+
+Document reference:     HR-SOP-2025-003
+Title:                  Employee Exit and Offboarding Procedure
+Department:             HR / IT / Finance
+Date issued:            2025-04-01
+Approved by:            Director, People & Culture
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This procedure covers the steps from the point an employee
+resigns or is terminated to their final exit from the company.
+
+------------------------------------------------------------
+2. NOTICE PERIOD
+------------------------------------------------------------
+(a) The standard notice period is:
+    - Grade Level 1–4: 1 month
+    - Grade Level 5–7: 2 months
+    - Grade Level 8 and above: 3 months
+
+(b) The company may waive the notice period and pay salary in
+    lieu of notice at its discretion.
+
+(c) An employee who leaves without serving the required notice
+    forfeits salary in lieu of the unserved period.
+
+------------------------------------------------------------
+3. RESIGNATION PROCESS
+------------------------------------------------------------
+(a) The employee submits a resignation letter to their line
+    manager and copies HR at hr-ops@novanet.com.ng.
+
+(b) The line manager acknowledges receipt and confirms the
+    last working day based on the notice period.
+
+(c) HR schedules an exit interview within the final week of
+    employment. Participation is voluntary but encouraged.
+
+------------------------------------------------------------
+4. KNOWLEDGE TRANSFER
+------------------------------------------------------------
+(a) During the notice period, the departing employee must:
+    - Document all ongoing projects, open tasks and key contacts
+    - Hand over all files, credentials and access to shared
+      resources to the designated successor or line manager
+    - Complete any outstanding deliverables or agree a handover
+      plan with the line manager
+
+(b) The line manager signs off on the knowledge transfer
+    checklist in the HRIS.
+
+------------------------------------------------------------
+5. IT OFFBOARDING
+------------------------------------------------------------
+The IT department completes the following on the employee's
+last working day:
+
+(a) Revoke access to all company systems: Microsoft 365, Slack,
+    VPN, HRIS, department-specific tools.
+(b) Collect the company laptop, charger, and any peripherals.
+(c) Wipe company data from any personal devices that were
+    enrolled in the MDM (Mobile Device Management) system.
+(d) Forward the employee's email to their line manager for 30
+    days, then deactivate the account.
+
+------------------------------------------------------------
+6. FINANCE — FINAL SETTLEMENT
+------------------------------------------------------------
+(a) The Finance team calculates the final settlement, which
+    includes:
+    - Salary up to the last working day
+    - Pro-rated 13th month pay (if applicable)
+    - Payment for unused annual leave days (at the daily rate)
+    - Any outstanding expense reimbursements
+    - Deductions: outstanding salary advances, equipment
+      not returned, unserved notice period
+
+(b) The final settlement is paid within 30 days of the last
+    working day.
+
+(c) The employee's pension contributions are not paid out by
+    the company; the employee contacts their PFA directly.
+
+------------------------------------------------------------
+7. CLEARANCE
+------------------------------------------------------------
+The employee must complete the clearance form, signed by:
+- Line manager (knowledge transfer complete)
+- IT (all equipment returned)
+- Finance (no outstanding advances)
+- Facilities (access card returned)
+- HR (exit interview completed or declined)
+
+The clearance form must be fully signed before the final
+settlement is processed.
+
+------------------------------------------------------------
+8. REFERENCE LETTERS
+------------------------------------------------------------
+Former employees may request a reference letter from HR. The
+company provides factual references only: job title, dates of
+employment, and last grade level. Performance assessments are
+not shared in reference letters.
+
+------------------------------------------------------------
+9. CONTACT
+------------------------------------------------------------
+HR Operations: hr-ops@novanet.com.ng, extension 4200.
+Finance — Payroll: payroll@novanet.com.ng, extension 6150.

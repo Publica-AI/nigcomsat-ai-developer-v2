@@ -1,0 +1,110 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+STANDARD OPERATING PROCEDURE
+
+Document reference:     HR-SOP-2024-001
+Title:                  Employee Onboarding Procedure
+Department:             HR / IT
+Date issued:            2024-04-01
+Approved by:            Director, People & Culture
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This procedure describes the steps for onboarding a new employee,
+from offer acceptance to the end of the probation period.
+
+------------------------------------------------------------
+2. PRE-ARRIVAL (HR, 5 working days before start date)
+------------------------------------------------------------
+(a) Send the welcome email with the employee's start date,
+    reporting time (09:00), office location (14th Floor, Civic
+    Towers, Ozumba Mbadiwe Avenue, Victoria Island, Lagos),
+    dress code (business casual) and first-day contact person.
+
+(b) Create the employee's record in the HRIS with name, role,
+    department, grade level, line manager, and start date.
+
+(c) Notify the IT department to provision the following:
+    - Company laptop (configured with standard software)
+    - Microsoft 365 account (email, Teams, SharePoint)
+    - Slack account
+    - VPN licence
+    - Access to department-specific systems (as requested by
+      the line manager)
+
+(d) Notify Facilities to assign a desk, access card and
+    parking (if applicable).
+
+(e) Prepare the onboarding pack: employment contract (two
+    copies for signing), NDA, company handbook, org chart,
+    benefits summary.
+
+------------------------------------------------------------
+3. DAY ONE
+------------------------------------------------------------
+(a) The first-day contact person meets the new employee at
+    reception and escorts them to their desk.
+
+(b) HR conducts a 1-hour orientation session covering:
+    - Company history and structure
+    - HR policies: leave (HR-POL-2025-006), code of conduct
+      (HR-POL-2024-002), remote work (HR-POL-2024-003),
+      data protection (HR-POL-2025-004)
+    - Benefits: HMO enrolment, pension (PFA selection),
+      group life insurance
+    - Payroll: salary date (25th of each month), bank account
+      form, TIN confirmation
+
+(c) IT conducts a 30-minute setup session:
+    - Laptop handover and login
+    - VPN setup and test
+    - Slack channels to join: #general, #announcements, and
+      the department channel
+    - Password policy: 12+ characters, changed every 90 days,
+      MFA enabled on all accounts
+
+(d) The line manager introduces the team, assigns a buddy
+    (a peer in the same department), and shares the
+    30-60-90 day plan.
+
+------------------------------------------------------------
+4. FIRST WEEK
+------------------------------------------------------------
+(a) The buddy checks in daily for the first week.
+
+(b) The employee completes mandatory training modules on the
+    learning portal:
+    - Information Security Awareness (1 hour)
+    - NDPA and Data Protection (45 minutes)
+    - Workplace Harassment Prevention (30 minutes)
+
+(c) The line manager schedules a 30-minute end-of-week check-in
+    to review progress against the 30-day goals.
+
+------------------------------------------------------------
+5. PROBATION PERIOD
+------------------------------------------------------------
+(a) The standard probation period is 6 months.
+
+(b) The line manager conducts a formal review at the end of
+    month 3 and month 6, using the Probation Review Form on
+    the HRIS.
+
+(c) At the end of month 6, the line manager recommends one of:
+    - Confirmation — the employee becomes a confirmed staff
+      member with full benefits and leave entitlement
+    - Extension — probation extended by up to 3 months, with
+      documented improvement goals
+    - Termination — with 2 weeks' notice and documented reasons
+
+(d) HR issues the confirmation letter within 5 working days of
+    the line manager's recommendation.
+
+------------------------------------------------------------
+6. CONTACT
+------------------------------------------------------------
+HR Operations: hr-ops@novanet.com.ng, extension 4200.
+IT Support: it-support@novanet.com.ng, extension 5100.

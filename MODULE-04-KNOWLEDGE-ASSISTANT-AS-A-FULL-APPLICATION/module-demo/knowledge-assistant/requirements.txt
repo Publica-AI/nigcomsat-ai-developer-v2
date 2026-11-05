@@ -1,0 +1,26 @@
+# NovaNet HR Knowledge Assistant — dependencies
+
+# API framework
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+pymysql
+
+# Authentication
+bcrypt
+pyjwt
+
+# LLM and embeddings
+openai
+
+# Vector store
+chromadb
+
+# Environment
+python-dotenv
+
+# Streamlit interface
+streamlit
+requests

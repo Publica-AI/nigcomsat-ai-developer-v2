@@ -1,0 +1,97 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+STANDARD OPERATING PROCEDURE
+
+Document reference:     HR-SOP-2025-002
+Title:                  Performance Review Procedure
+Department:             HR
+Date issued:            2025-01-15
+Approved by:            Director, People & Culture
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This procedure describes the annual performance review cycle,
+the rating scale, and how review outcomes connect to promotions,
+bonuses and development plans.
+
+------------------------------------------------------------
+2. REVIEW CYCLE
+------------------------------------------------------------
+The performance year runs from 1 January to 31 December.
+
+(a) January — Goal setting
+    Each employee and their line manager agree on 3 to 5
+    SMART objectives for the year, recorded in the HRIS.
+    At least one objective must relate to professional
+    development.
+
+(b) July — Mid-year check-in
+    A 30-minute conversation between the employee and line
+    manager. No formal rating. The purpose is to review
+    progress, adjust objectives if business needs have
+    changed, and flag any support required.
+
+(c) December — Year-end review
+    The employee completes a self-assessment. The line
+    manager completes the manager assessment. Both are
+    submitted in the HRIS by 15 December.
+
+(d) January (following year) — Calibration and feedback
+    The Head of Department reviews all ratings in a
+    calibration meeting with HR to ensure consistency. Final
+    ratings are communicated to employees by 31 January.
+
+------------------------------------------------------------
+3. RATING SCALE
+------------------------------------------------------------
+| Rating | Label               | Description |
+|--------|---------------------|-------------|
+| 5      | Exceptional         | Consistently exceeded all objectives; impact beyond own role |
+| 4      | Exceeds expectations| Met all and exceeded some objectives |
+| 3      | Meets expectations  | Met all core objectives |
+| 2      | Needs improvement   | Met some but not all objectives; gaps identified |
+| 1      | Unsatisfactory      | Failed to meet most objectives; performance plan required |
+
+A rating of 1 or 2 triggers a Performance Improvement Plan (PIP),
+documented in the HRIS, with a 90-day review period.
+
+------------------------------------------------------------
+4. LINK TO COMPENSATION
+------------------------------------------------------------
+(a) Annual bonus (discretionary, subject to company performance):
+    - Rating 5: up to 20% of annual base salary
+    - Rating 4: up to 15%
+    - Rating 3: up to 10%
+    - Rating 2 or 1: not eligible
+
+(b) Promotion eligibility:
+    - Minimum rating of 4 in the current year and 3 in the
+      prior year.
+    - At least 18 months in the current grade level.
+    - Recommendation from the line manager and Head of
+      Department.
+    - Promotions are approved by the Managing Director in a
+      quarterly promotion committee meeting (March, June,
+      September, December).
+
+(c) Salary review:
+    - Annual salary review is effective 1 April. The percentage
+      increase is linked to the performance rating and market
+      benchmarking conducted by HR.
+
+------------------------------------------------------------
+5. DISPUTES
+------------------------------------------------------------
+If an employee disagrees with their rating, they may submit a
+written appeal to the Head of Department within 10 working days
+of receiving the final rating. The Head of Department and the
+Director of People & Culture will review and respond within 15
+working days. Their decision is final.
+
+------------------------------------------------------------
+6. CONTACT
+------------------------------------------------------------
+HR Business Partner team: hr-bp@novanet.com.ng, extension 4220.

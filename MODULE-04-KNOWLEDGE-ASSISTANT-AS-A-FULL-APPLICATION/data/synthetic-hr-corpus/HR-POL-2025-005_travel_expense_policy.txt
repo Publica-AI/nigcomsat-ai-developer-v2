@@ -1,0 +1,111 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+HUMAN RESOURCES POLICY
+
+Document reference:     HR-POL-2025-005
+Title:                  Travel and Expense Reimbursement Policy
+Department:             HR / Finance
+Date issued:            2025-03-01
+Approved by:            Director, Finance
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This policy governs business travel arrangements and the
+reimbursement of expenses incurred by employees while travelling
+on company business.
+
+------------------------------------------------------------
+2. SCOPE
+------------------------------------------------------------
+This policy applies to all employees travelling on behalf of
+NovaNet Technologies Ltd, whether within Nigeria or
+internationally.
+
+------------------------------------------------------------
+3. TRAVEL APPROVAL
+------------------------------------------------------------
+(a) All business travel must be pre-approved by the employee's
+    line manager using the Travel Request Form on the HR portal.
+
+(b) International travel requires additional approval from the
+    Head of Department and the Director, Finance.
+
+(c) Travel requests must be submitted at least 10 working days
+    before the departure date (5 working days for domestic
+    travel).
+
+------------------------------------------------------------
+4. TRAVEL ENTITLEMENTS — DOMESTIC
+------------------------------------------------------------
+4.1 Transportation
+    - Air travel: economy class for all grades. Bookings are
+      made through the company's designated travel agent.
+    - Road travel: company vehicle where available, or a
+      reimbursement of NGN 80 per kilometre for personal vehicle
+      use. Receipts and an odometer log are required.
+    - Ride-hailing (Bolt, Uber): reimbursed for airport
+      transfers and local travel during the trip, with receipts.
+
+4.2 Accommodation
+    - Grade Level 1–4: up to NGN 35,000 per night
+    - Grade Level 5–7: up to NGN 55,000 per night
+    - Grade Level 8 and above: up to NGN 85,000 per night
+    - Bookings should be made through the travel agent. If the
+      employee books independently, only the actual cost up to
+      the limit is reimbursed.
+
+4.3 Meals and incidentals
+    - A per diem of NGN 15,000 per day covers meals, local
+      transport within the destination city, and incidentals.
+    - The per diem is paid in advance and does not require
+      individual receipts.
+
+------------------------------------------------------------
+5. TRAVEL ENTITLEMENTS — INTERNATIONAL
+------------------------------------------------------------
+(a) Air travel: economy class for Grade Level 1–7; premium
+    economy for Grade Level 8 and above. Business class
+    requires Managing Director approval.
+
+(b) Accommodation: actual cost up to USD 200 per night (or
+    equivalent in local currency). Exceptions for high-cost
+    cities (London, New York, Dubai) may be approved by the
+    Director, Finance.
+
+(c) Per diem: USD 75 per day for meals and incidentals.
+
+(d) Travel insurance is arranged by the company for all
+    international trips.
+
+------------------------------------------------------------
+6. EXPENSE CLAIMS
+------------------------------------------------------------
+(a) Claims must be submitted within 14 days of the employee's
+    return, using the Expense Claim Form on the HR portal.
+
+(b) All claims must be supported by original receipts or
+    electronic equivalents. Claims without receipts are not
+    reimbursed, except for the per diem.
+
+(c) The Finance team processes approved claims within 10
+    working days of receipt.
+
+------------------------------------------------------------
+7. NON-REIMBURSABLE EXPENSES
+------------------------------------------------------------
+The following are not reimbursable:
+- Alcoholic beverages
+- Personal entertainment (cinema, spa, tourism)
+- Traffic fines or parking tickets
+- Upgrades to a higher travel class without approval
+- Mini-bar charges
+- Laundry for trips shorter than 5 days
+
+------------------------------------------------------------
+8. CONTACT
+------------------------------------------------------------
+Travel bookings: travel@novanet.com.ng, extension 6100.
+Expense claims: finance-claims@novanet.com.ng, extension 6200.

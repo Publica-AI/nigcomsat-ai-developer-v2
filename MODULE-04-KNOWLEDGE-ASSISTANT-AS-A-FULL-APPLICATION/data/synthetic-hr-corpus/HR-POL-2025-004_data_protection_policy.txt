@@ -1,0 +1,122 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+HUMAN RESOURCES POLICY
+
+Document reference:     HR-POL-2025-004
+Title:                  Employee Data Protection and Privacy Policy
+Department:             HR / Legal
+Date issued:            2025-01-10
+Approved by:            Managing Director
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This policy explains how NovaNet Technologies Ltd collects,
+stores, processes and protects the personal data of its
+employees, in compliance with the Nigeria Data Protection Act
+(NDPA) 2023 and the Nigeria Data Protection Commission (NDPC)
+regulations.
+
+------------------------------------------------------------
+2. WHAT DATA WE COLLECT
+------------------------------------------------------------
+The company collects and maintains the following categories of
+employee personal data:
+
+(a) Identity data: full name, date of birth, state of origin,
+    passport photograph, National Identification Number (NIN).
+
+(b) Contact data: personal email, phone number, residential
+    address, next-of-kin details.
+
+(c) Employment data: job title, department, grade level, salary,
+    bank account details, tax identification number (TIN),
+    pension fund administrator (PFA) and RSA PIN.
+
+(d) Health data: pre-employment medical report, HMO enrolment
+    records, disability status (if voluntarily disclosed).
+
+(e) Performance data: appraisal records, disciplinary records,
+    training records.
+
+(f) IT usage data: login timestamps, VPN connection logs,
+    email metadata (sender, recipient, timestamp — not content).
+
+------------------------------------------------------------
+3. LAWFUL BASIS FOR PROCESSING
+------------------------------------------------------------
+The company processes employee data on three lawful bases under
+the NDPA:
+
+(a) Contract — data necessary to fulfil the employment contract
+    (salary payments, pension contributions, HMO enrolment).
+
+(b) Legal obligation — data required by Nigerian tax law, pension
+    law, and labour regulations.
+
+(c) Legitimate interest — data used for security monitoring,
+    fraud prevention, and workforce planning, where the
+    company's interest does not override the employee's rights.
+
+The company does not rely on consent as the primary basis for
+processing employment data, because the power imbalance in an
+employment relationship makes consent unreliable. However,
+consent is sought for optional processing such as publishing
+an employee's photograph on the company website.
+
+------------------------------------------------------------
+4. DATA RETENTION
+------------------------------------------------------------
+(a) Active employees: data is retained for the duration of
+    employment.
+
+(b) Former employees: employment records are retained for 6
+    years after the date of exit, in line with the statute of
+    limitations for employment claims. Pension and tax records
+    are retained as required by the relevant regulators.
+
+(c) Unsuccessful applicants: recruitment data is retained for
+    12 months after the recruitment decision and then deleted.
+
+------------------------------------------------------------
+5. EMPLOYEE RIGHTS
+------------------------------------------------------------
+Under the NDPA, employees have the right to:
+
+(a) Access a copy of their personal data held by the company.
+(b) Request correction of inaccurate data.
+(c) Request deletion of data that is no longer necessary (subject
+    to legal retention obligations).
+(d) Object to processing based on legitimate interest.
+(e) Receive their data in a portable format (CSV or PDF).
+
+Requests should be submitted to the Data Protection Officer at
+dpo@novanet.com.ng. The company will respond within 30 days.
+
+------------------------------------------------------------
+6. DATA SECURITY
+------------------------------------------------------------
+(a) Employee data is stored in the HR Information System (HRIS),
+    which is hosted on encrypted servers in Lagos and backed up
+    daily to a secondary site in Abuja.
+
+(b) Access to the HRIS is restricted by role: HR staff see
+    records for their assigned departments; line managers see
+    only their direct reports; the Finance team sees only
+    payroll-relevant fields.
+
+(c) Paper records (original certificates held during employment)
+    are stored in a locked cabinet in the HR office and returned
+    to the employee on exit.
+
+(d) Any suspected data breach must be reported to the Data
+    Protection Officer within 24 hours. The DPO will assess
+    whether the NDPC and affected employees must be notified.
+
+------------------------------------------------------------
+7. CONTACT
+------------------------------------------------------------
+Data Protection Officer: dpo@novanet.com.ng, extension 4250.
+HR Operations: hr-ops@novanet.com.ng, extension 4200.

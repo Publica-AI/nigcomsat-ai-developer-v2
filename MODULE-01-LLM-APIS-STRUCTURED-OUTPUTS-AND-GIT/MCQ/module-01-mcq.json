@@ -1,0 +1,452 @@
+[
+    {
+        "title": "what are large language models",
+        "description": "Definition of LLM",
+        "type": "multiple choice",
+        "question": "What does LLM stand for?",
+        "options": "Large Learning Machine|Large Language Model|Layered Logic Module|Linear Language Mapper",
+        "answer": "Large Language Model",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "How LLMs generate text",
+        "type": "multiple choice",
+        "question": "How does an LLM generate text?",
+        "options": "It searches the internet for the best answer|It predicts the most likely next token one at a time|It copies text from its training data|It runs a logical rules engine",
+        "answer": "It predicts the most likely next token one at a time",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "What is a token",
+        "type": "multiple choice",
+        "question": "What is a token in the context of LLMs?",
+        "options": "A security credential for API access|A chunk of text — roughly a word or part of a word|A unit of payment for API usage|A type of neural network layer",
+        "answer": "A chunk of text — roughly a word or part of a word",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "LLM vs search engine",
+        "type": "True or False",
+        "question": "LLMs retrieve documents from the internet to answer questions, just like a search engine.",
+        "options": "True|False",
+        "answer": "False",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "Context window",
+        "type": "multiple choice",
+        "question": "What is a context window in an LLM?",
+        "options": "The graphical interface for interacting with the model|The maximum number of tokens the model can process in one call|The time window during which a model is active|The list of topics the model was trained on",
+        "answer": "The maximum number of tokens the model can process in one call",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "Parameters",
+        "type": "True or False",
+        "question": "More parameters always means a better LLM for every task.",
+        "options": "True|False",
+        "answer": "False",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "Hallucination definition",
+        "type": "multiple choice",
+        "question": "What is hallucination in the context of LLMs?",
+        "options": "When the model refuses to answer|When the model generates confident but factually incorrect information|When the model repeats the same phrase|When the model output is too long",
+        "answer": "When the model generates confident but factually incorrect information",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "Knowledge cutoff",
+        "type": "multiple choice",
+        "question": "You ask an LLM for the current USD to Naira exchange rate and it gives you an outdated figure. What is the most likely cause?",
+        "options": "You used the wrong model|The model has a training cutoff and does not know recent exchange rates|The API is broken|You forgot to set temperature=0",
+        "answer": "The model has a training cutoff and does not know recent exchange rates",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "Bias in LLMs",
+        "type": "multiple choice",
+        "question": "Why might an LLM give weaker responses about Nigerian business practices compared to US or UK business practices?",
+        "options": "LLMs are programmed to favour Western countries|Nigerian internet users do not use LLMs|Training data contains more content from the US and Europe than Africa|Nigerian businesses are too complex for LLMs",
+        "answer": "Training data contains more content from the US and Europe than Africa",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "No persistent memory",
+        "type": "multiple choice",
+        "question": "A user tells your chatbot their business name in Session 1. In Session 2, the chatbot does not remember it. What is the correct explanation?",
+        "options": "The model forgot due to inactivity|Each API call is stateless — the model has no memory between sessions|The session timed out|The system message was reset",
+        "answer": "Each API call is stateless — the model has no memory between sessions",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "load_dotenv",
+        "type": "multiple choice",
+        "question": "You have an API key in your .env file but os.getenv('OPENAI_API_KEY') returns None. What is the most likely cause?",
+        "options": "The .env file is corrupted|You forgot to call load_dotenv() before os.getenv()|The key is too long|Python does not support .env files",
+        "answer": "You forgot to call load_dotenv() before os.getenv()",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "Messages array roles",
+        "type": "multiple choice",
+        "question": "In the OpenAI messages array, which role sets the model's persona and behaviour for the entire conversation?",
+        "options": "user|assistant|system|context",
+        "answer": "system",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "max_tokens",
+        "type": "multiple choice",
+        "question": "What does the `max_tokens` parameter control in an LLM API call?",
+        "options": "The maximum length of the input prompt|The maximum length of the model's response|The total budget for API calls|The number of examples in a few-shot prompt",
+        "answer": "The maximum length of the model's response",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "Multi-turn conversation",
+        "type": "multiple choice",
+        "question": "A user asks your chatbot a follow-up question but the bot does not understand what they are referring to. What is the most likely cause?",
+        "options": "The model is broken|The system message is wrong|You did not include the conversation history in the messages array|The temperature is too high",
+        "answer": "You did not include the conversation history in the messages array",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "finish_reason",
+        "type": "multiple choice",
+        "question": "Your LLM response is being cut off mid-sentence. What finish_reason value confirms this is the problem?",
+        "options": "stop|content_filter|length|timeout",
+        "answer": "length",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "Streaming",
+        "type": "multiple choice",
+        "question": "Which parameter enables streaming responses in the OpenAI API?",
+        "options": "stream=True|live=True|realtime=True|output_mode='stream'",
+        "answer": "stream=True",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "accessing llms via api",
+        "description": "Rate limit error handling",
+        "type": "multiple choice",
+        "question": "Your application hits a rate limit. What is the recommended approach?",
+        "options": "Immediately retry the same request|Wait with exponential backoff and retry|Switch to a different model permanently|Cancel the request and inform the user",
+        "answer": "Wait with exponential backoff and retry",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "what are large language models",
+        "description": "API key security",
+        "type": "multiple choice",
+        "question": "What is the safest way to store your OpenAI API key in a Python project?",
+        "options": "Hardcode it directly in your Python file|Store it in a .env file and load it with python-dotenv|Share it in your README so teammates can use it|Save it in a comments section of your code",
+        "answer": "Store it in a .env file and load it with python-dotenv",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "what are large language models",
+        "description": "Reading API response",
+        "type": "multiple choice",
+        "question": "After making an OpenAI API call stored as `response`, how do you access the text content of the reply?",
+        "options": "response.text|response.output|response.choices[0].message.content|response.answer",
+        "answer": "response.choices[0].message.content",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Prompt anatomy",
+        "type": "multiple choice",
+        "question": "Which of the following is NOT one of the four components of a well-structured prompt?",
+        "options": "Instruction|Context|Output format|Model name",
+        "answer": "Model name",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Zero-shot prompting",
+        "type": "multiple choice",
+        "question": "What is zero-shot prompting?",
+        "options": "Prompting with zero system message|Prompting without providing any examples|Prompting that produces zero output|Prompting using only one word",
+        "answer": "Prompting without providing any examples",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Few-shot use case",
+        "type": "multiple choice",
+        "question": "You need an LLM to classify Nigerian customer complaints into exactly three categories and return only the category name — no extra text. Which technique is most effective?",
+        "options": "Zero-shot prompting|Few-shot prompting with examples|Chain-of-thought prompting|Role prompting only",
+        "answer": "Few-shot prompting with examples",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Chain-of-thought",
+        "type": "multiple choice",
+        "question": "Which phrase, when added to a prompt, triggers chain-of-thought reasoning?",
+        "options": "Be concise|Think through this step by step|Use bullet points|Respond formally",
+        "answer": "Think through this step by step",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Output format",
+        "type": "multiple choice",
+        "question": "You are building an application that needs to parse LLM output and save it to a database. Which output format is most reliable?",
+        "options": "Plain prose paragraph|Bullet point list|JSON with a defined schema|Numbered list",
+        "answer": "JSON with a defined schema",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "introduction to prompt engineering",
+        "description": "Prompt chaining",
+        "type": "multiple choice",
+        "question": "What is prompt chaining?",
+        "options": "Writing multiple prompts in one message|Using the output of one prompt as the input to the next|Linking multiple API keys together|Combining few-shot and zero-shot in one prompt",
+        "answer": "Using the output of one prompt as the input to the next",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "Iteration best practice",
+        "type": "multiple choice",
+        "question": "How many different inputs should you test a prompt on before using it in a production application?",
+        "options": "1 — if it works once it will work always|2-3 — enough to get a sense|5 or more — including edge cases and unusual inputs|You do not need to test — LLMs are always reliable",
+        "answer": "5 or more — including edge cases and unusual inputs",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "prompt design best practices and limitations",
+        "description": "Specificity",
+        "type": "multiple choice",
+        "question": "What is the key test for whether a prompt is specific enough?",
+        "options": "It contains at least 50 words|You cannot imagine two valid but different responses to it|It includes a system message|It uses few-shot examples",
+        "answer": "You cannot imagine two valid but different responses to it",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Why prose breaks downstream code",
+        "type": "multiple choice",
+        "question": "Why is a prose reply from a chat model unreliable for code that needs to parse it?",
+        "options": "The model always refuses to answer in prose|The same meaning can come back in different shapes, breaking naive parsing like string splitting|Prose replies are always longer than JSON|Prose replies cannot contain numbers",
+        "answer": "The same meaning can come back in different shapes, breaking naive parsing like string splitting",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "One Pydantic class, two jobs",
+        "type": "True or False",
+        "question": "The same Pydantic model class can be used both to generate the JSON Schema sent to the API and to validate the reply once it comes back.",
+        "options": "True|False",
+        "answer": "True",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Purpose of a field_validator",
+        "type": "multiple choice",
+        "question": "A Pydantic field is typed as `int`, but a negative value would be nonsensical for it. What enforces that rule?",
+        "options": "The `int` type itself already rejects negative numbers|A custom `field_validator` that checks the value and raises an error if it fails a business rule|Structured output mode automatically rejects negative numbers|Nothing — negative numbers must be caught after saving to a database",
+        "answer": "A custom `field_validator` that checks the value and raises an error if it fails a business rule",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "What structured output mode does and does not guarantee",
+        "type": "multiple choice",
+        "question": "When an API call uses structured output mode with a defined schema, what is actually guaranteed?",
+        "options": "The reply's shape matches the schema, but the values inside it are not guaranteed to be correct|The reply's values are guaranteed to be factually correct|The reply will always be shorter than an unstructured one|The model can no longer make a mistake",
+        "answer": "The reply's shape matches the schema, but the values inside it are not guaranteed to be correct",
+        "difficulty": "advanced"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Retry loop design",
+        "type": "multiple choice",
+        "question": "In a well-designed retry loop for structured output, what should happen when validation fails?",
+        "options": "Silently retry the identical request until it eventually succeeds|Feed the validation error back to the model as a correction message and retry, capped at a small number of attempts|Immediately fall back to accepting the invalid data|Switch to a different model without telling anyone",
+        "answer": "Feed the validation error back to the model as a correction message and retry, capped at a small number of attempts",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Handling genuinely absent fields",
+        "type": "True or False",
+        "question": "If a document genuinely does not state a value for a field, that field should be made required (not Optional) so the model always returns something.",
+        "options": "True|False",
+        "answer": "False",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Why log every failed retry attempt",
+        "type": "multiple choice",
+        "question": "Why should every failed validation attempt in a retry loop be logged, not just the final result?",
+        "options": "Logging is required by every programming language|A pattern of repeated failures on the same field signals the prompt or schema needs work, not just a retry-count problem|It makes the API call run faster|It prevents the API key from expiring",
+        "answer": "A pattern of repeated failures on the same field signals the prompt or schema needs work, not just a retry-count problem",
+        "difficulty": "advanced"
+    },
+    {
+        "title": "structured outputs and validation",
+        "description": "Literal type hint for a fixed set of values",
+        "type": "multiple choice",
+        "question": "Which Python/Pydantic type hint restricts a field to one of a fixed list of string values, such as \"P1\", \"P2\", \"P3\", \"P4\"?",
+        "options": "str|Optional[str]|Literal[\"P1\", \"P2\", \"P3\", \"P4\"]|list[str]",
+        "answer": "Literal[\"P1\", \"P2\", \"P3\", \"P4\"]",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "Where the answer key comes from",
+        "type": "True or False",
+        "question": "You should ask the model what it believes the correct answer is, and use that as the expected value in your test.",
+        "options": "True|False",
+        "answer": "False",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "The duration trap",
+        "type": "multiple choice",
+        "question": "A shift note gives exact timestamps (02:14 and 03:52) and also a rounded summary claim (\"approximately two hours\"). Why might a model incorrectly answer \"120 minutes\" instead of \"98 minutes\"?",
+        "options": "It cannot read timestamps at all|It repeats the rounded summary claim instead of subtracting the two timestamps itself|120 is always the correct answer for any outage|The API forces round numbers only",
+        "answer": "It repeats the rounded summary claim instead of subtracting the two timestamps itself",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "The actual live result",
+        "type": "multiple choice",
+        "question": "When this exact hallucination check was run live against this course's configured model, what happened?",
+        "options": "It answered incorrectly most of the time, proving the model is unreliable|It answered correctly every time it was tried, which is a reason to delete the test|It answered correctly every time it was tried, which does not make the test pointless|The API refused to respond at all",
+        "answer": "It answered correctly every time it was tried, which does not make the test pointless",
+        "difficulty": "advanced"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "Why keep a test that currently always passes",
+        "type": "multiple choice",
+        "question": "What is the main argument, from this topic, for keeping a hallucination-catching test even after confirming the model reliably passes it today?",
+        "options": "Tests must exist purely to satisfy a checklist|The model, prompt, or provider behind it can change without warning, and the test exists to catch that regression|A passing test proves the code has no other bugs|Without a test, the API would stop working entirely",
+        "answer": "The model, prompt, or provider behind it can change without warning, and the test exists to catch that regression",
+        "difficulty": "advanced"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "Validator test independence from the API",
+        "type": "True or False",
+        "question": "A test proving a Pydantic validator rejects bad data with `pytest.raises(ValidationError)` needs a live API call to run.",
+        "options": "True|False",
+        "answer": "False",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "Why keep the two checks separate",
+        "type": "multiple choice",
+        "question": "Why are the hallucination check and the validator check written as two independent tests instead of sharing one setup or fixture?",
+        "options": "Sharing code between tests is against Python's rules|So a failure affecting one (for example, the live API being down) cannot hide or affect the result of the other|Independent tests always run faster|pytest requires every test to be in its own file",
+        "answer": "So a failure affecting one (for example, the live API being down) cannot hide or affect the result of the other",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "testing for hallucination and verification habits",
+        "description": "A genuine verification habit",
+        "type": "multiple choice",
+        "question": "Which of the following is a genuine verification habit for AI-assisted code, as described in this topic?",
+        "options": "Accept any suggestion that runs without an error|Read and be able to explain every line an AI assistant suggests before accepting it|Skip running tests if the code looks correct|Trust a fix that silently swallows an exception, since the error message disappears",
+        "answer": "Read and be able to explain every line an AI assistant suggests before accepting it",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "Git vs GitHub",
+        "type": "multiple choice",
+        "question": "A Lagos developer says 'I use GitHub for version control'. What is technically inaccurate about this statement?",
+        "options": "Nothing — GitHub and version control are the same thing|Git is the version control tool — GitHub is a cloud hosting platform for Git repositories|GitHub is for version control but Git is only for backups|GitHub does not support version control",
+        "answer": "Git is the version control tool — GitHub is a cloud hosting platform for Git repositories",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "git add and commit",
+        "type": "multiple choice",
+        "question": "A developer edits index.html but runs git commit -m 'update homepage' without running git add first. What happens?",
+        "options": "The commit includes the changes to index.html|The commit is created but empty — the changes were not staged|Git throws an error and stops|The commit is automatically staged",
+        "answer": "The commit is created but empty — the changes were not staged",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "gitignore",
+        "type": "True or False",
+        "question": "A .env file containing API keys will be ignored by Git if it is listed in .gitignore — even when running git add .",
+        "options": "True|False",
+        "answer": "True",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "branching",
+        "type": "multiple choice",
+        "question": "A Paystack developer is adding a new feature. They want to work on it without affecting the main branch. What is the correct first step?",
+        "options": "Edit files directly on main|git switch -c feature/new-feature|git commit -m 'start feature'|git push origin main",
+        "answer": "git switch -c feature/new-feature",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "merge conflict",
+        "type": "multiple choice",
+        "question": "After resolving a merge conflict in style.css, what must the developer do before the merge is complete?",
+        "options": "Run git merge --continue|Edit the conflict markers and then run git add style.css and git commit|Run git push immediately|Delete the branch",
+        "answer": "Edit the conflict markers and then run git add style.css and git commit",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "git and github",
+        "description": "git push first time",
+        "type": "multiple choice",
+        "question": "A developer runs git push for the first time on a new branch and gets an error. What flag sets up the upstream tracking?",
+        "options": "-f|--force|--set-upstream or -u|--track",
+        "answer": "--set-upstream or -u",
+        "difficulty": "intermediate"
+    },
+    {
+        "title": "git and github",
+        "description": "pull request",
+        "type": "multiple choice",
+        "question": "A developer working on a Nigerian open source project wants to propose changes to the original repository. What is the correct workflow?",
+        "options": "Push directly to the original repository|Fork the repo → clone the fork → make changes → open a Pull Request|Email the changes to the maintainer|Run git merge on the original repo",
+        "answer": "Fork the repo → clone the fork → make changes → open a Pull Request",
+        "difficulty": "beginner"
+    },
+    {
+        "title": "git and github",
+        "description": "Closes issue syntax",
+        "type": "multiple choice",
+        "question": "A developer wants their Pull Request to automatically close Issue #7 when merged. What should they include in the PR description?",
+        "options": "Fixes issue 7|Closes #7|Resolves issue-7|Merge #7",
+        "answer": "Closes #7",
+        "difficulty": "intermediate"
+    }
+]

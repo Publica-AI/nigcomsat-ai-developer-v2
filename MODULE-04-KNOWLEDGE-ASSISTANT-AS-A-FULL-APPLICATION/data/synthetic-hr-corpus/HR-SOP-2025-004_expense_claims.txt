@@ -1,0 +1,86 @@
+*** SYNTHETIC DOCUMENT - FOR TRAINING USE ONLY - NOT A REAL COMPANY RECORD ***
+
+NOVANET TECHNOLOGIES LTD
+STANDARD OPERATING PROCEDURE
+
+Document reference:     HR-SOP-2025-004
+Title:                  Expense Claims Procedure
+Department:             Finance
+Date issued:            2025-05-01
+Approved by:            Director, Finance
+Status:                 CURRENT
+
+------------------------------------------------------------
+1. PURPOSE
+------------------------------------------------------------
+This procedure details how employees submit, document and track
+expense claims for business-related costs not covered by
+company-issued cards or direct billing.
+
+------------------------------------------------------------
+2. ELIGIBLE EXPENSES
+------------------------------------------------------------
+Expenses eligible for reimbursement are those incurred directly
+for company business and consistent with the Travel and Expense
+Reimbursement Policy (HR-POL-2025-005). Common categories:
+
+(a) Travel — flights, ground transport, fuel for personal
+    vehicle on company business (NGN 80/km with odometer log)
+(b) Accommodation — within the limits for the employee's grade
+    level as specified in HR-POL-2025-005
+(c) Meals — during business travel (covered by per diem) or
+    client-facing meals with pre-approval
+(d) Office supplies — items under NGN 10,000 purchased for
+    immediate project needs when procurement lead time is
+    impractical
+(e) Professional development — conference registration, exam
+    fees, or books pre-approved by the line manager
+
+------------------------------------------------------------
+3. SUBMISSION PROCESS
+------------------------------------------------------------
+Step 1 — Collect receipts
+    Original receipts or clear electronic copies (PDF, photo)
+    for every item. Bank or card statements alone are not
+    accepted. Per diem does not require receipts.
+
+Step 2 — Complete the Expense Claim Form
+    On the HR portal, enter: date of expense, category,
+    description, amount (NGN), and attach the receipt. Group
+    expenses by trip or project.
+
+Step 3 — Line manager approval
+    The line manager reviews and approves or returns the claim
+    within 3 working days. Claims above NGN 100,000 also
+    require Head of Department approval.
+
+Step 4 — Finance processing
+    The Finance team verifies receipts, checks policy
+    compliance, and processes the payment within 10 working
+    days of receiving the approved claim. Payment is made to
+    the employee's salary bank account.
+
+------------------------------------------------------------
+4. DEADLINES
+------------------------------------------------------------
+(a) Claims must be submitted within 14 days of the expense
+    being incurred or the employee's return from travel,
+    whichever is later.
+
+(b) Claims submitted after 30 days require Head of Department
+    approval and a written explanation for the delay.
+
+(c) Claims submitted after 60 days are not reimbursed.
+
+------------------------------------------------------------
+5. REJECTED CLAIMS
+------------------------------------------------------------
+If Finance rejects a claim (missing receipt, policy violation,
+insufficient documentation), the employee is notified via
+email with the reason. The employee may resubmit with the
+missing documentation within 7 working days.
+
+------------------------------------------------------------
+6. CONTACT
+------------------------------------------------------------
+Finance — Claims: finance-claims@novanet.com.ng, extension 6200.
